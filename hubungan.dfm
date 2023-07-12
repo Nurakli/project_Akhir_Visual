@@ -1,10 +1,10 @@
 object Form10: TForm10
-  Left = 214
-  Top = 122
+  Left = 517
+  Top = 47
   Width = 692
   Height = 675
   Caption = 'DATA HUBUNGAN'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

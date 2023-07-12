@@ -4,7 +4,7 @@ object Form9: TForm9
   Width = 684
   Height = 523
   Caption = 'DATA KELAS'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

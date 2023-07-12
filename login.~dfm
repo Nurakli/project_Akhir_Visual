@@ -1,6 +1,6 @@
 object Form2: TForm2
-  Left = 720
-  Top = 117
+  Left = 515
+  Top = 200
   Width = 535
   Height = 377
   Caption = 'LOGIN'
@@ -106,7 +106,7 @@ object Form2: TForm2
     Database = 'database_siswa'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'C:\Users\Lenovo\Downloads\VISUAL_GALAY\VISUAL_GALAY\libmysql.dll'
+    LibraryLocation = 'D:\SEMESTER 4\Project_VISUAL\libmysql.dll'
     Left = 216
     Top = 272
   end

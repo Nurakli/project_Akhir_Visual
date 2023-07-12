@@ -4,7 +4,7 @@ object Form5: TForm5
   Width = 793
   Height = 675
   Caption = 'Data Orang Tua'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

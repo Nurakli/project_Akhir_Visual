@@ -4,7 +4,7 @@ object Form12: TForm12
   Width = 683
   Height = 529
   Caption = 'DATA USER'
-  Color = clSkyBlue
+  Color = clOlive
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11

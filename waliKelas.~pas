@@ -128,7 +128,7 @@ end;
 
 procedure TForm7.b2Click(Sender: TObject);
 begin
-  //SIMPAN
+   //SIMPAN
   
 if(edt1.Text = '')or(edt2.Text = '')or(cmb1.Text = '') or(edt3.Text = '')or(edt4.Text = '')or(edt5.Text = '')or(edt6.Text = '')or(cmb2.Text = '')then
 begin

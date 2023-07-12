@@ -82,7 +82,7 @@ object Form2: TForm2
     OnClick = b1Click
   end
   object b2: TButton
-    Left = 280
+    Left = 328
     Top = 213
     Width = 97
     Height = 44
@@ -107,8 +107,8 @@ object Form2: TForm2
     User = 'root'
     Protocol = 'mysql'
     LibraryLocation = 'D:\SEMESTER 4\Project_VISUAL\libmysql.dll'
-    Left = 216
-    Top = 272
+    Left = 24
+    Top = 216
   end
   object zqry1: TZQuery
     Connection = con1
@@ -116,12 +116,12 @@ object Form2: TForm2
     SQL.Strings = (
       'SELECT * FROM tabel_user')
     Params = <>
-    Left = 256
-    Top = 272
+    Left = 24
+    Top = 256
   end
   object ds1: TDataSource
     DataSet = zqry1
-    Left = 296
-    Top = 272
+    Left = 24
+    Top = 296
   end
 end
